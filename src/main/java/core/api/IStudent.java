@@ -16,7 +16,7 @@ public interface IStudent {
 
     /**
      * Drop class {@code className} in year {@code year} for student {@code studentName},
-     * provided the student is registered and the class has not ended.
+     * provided the student is registere and the class has not ended.
      *
      * @param studentName Name of the student to drop class for
      * @param className Name of the class to drop
